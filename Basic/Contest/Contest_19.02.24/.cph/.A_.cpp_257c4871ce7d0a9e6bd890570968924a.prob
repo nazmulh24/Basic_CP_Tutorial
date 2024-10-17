@@ -1,0 +1,1 @@
+{"name":"Local: A_","url":"/Users/nazmul/Desktop/CP/Contest/Contest_19.02.24/A_.cpp","tests":[{"id":1708353393592,"input":"8\nABABB\nABABA\nBBBAB\nAAAAA\nBBBBB\nBABAA\nAAAAB\nBAAAA","output":"B\nA\nB\nA\nB\nA\nA\nA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nazmul/Desktop/CP/Contest/Contest_19.02.24/A_.cpp","group":"local","local":true}

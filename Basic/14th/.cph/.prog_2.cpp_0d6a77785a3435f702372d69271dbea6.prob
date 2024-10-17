@@ -1,0 +1,1 @@
+{"name":"Local: prog_2","url":"/Users/nazmul/Desktop/CP/14th/prog_2.cpp","tests":[{"id":1707486302593,"input":"1\n1","output":"3"},{"id":1707486310104,"input":"1\n2","output":"2"},{"id":1707486323160,"input":"2\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nazmul/Desktop/CP/14th/prog_2.cpp","group":"local","local":true}

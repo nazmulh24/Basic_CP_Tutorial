@@ -1,0 +1,1 @@
+{"name":"Local: prog_7","url":"/Users/nazmul/Desktop/CP/6th/prog_7.cpp","tests":[{"id":1703690232386,"input":"abba","output":"YES"},{"id":1703690243115,"input":"icpcassiut","output":"NO"},{"id":1703690258655,"input":"mam","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nazmul/Desktop/CP/6th/prog_7.cpp","group":"local","local":true}
